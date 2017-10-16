@@ -1,6 +1,6 @@
 # Site settings
 title: Ryan Drew's Website
-email: mail@ryanrdrew.com
+email: info@ryanrdrew.com
 description: > # this means to ignore newlines until "baseurl:"
   CCIS Student at Northeastern Unversity.
 baseurl: "" # the subpath of your site, e.g. /newpath-for-emping
@@ -9,10 +9,10 @@ github_username:  ryandrew14
 GoogleAnalytics: UA-xxxxxx-x
 
 twitter:
-  username: rmsubekti
+  username: ryandrew8
 facebook:
-  app_id: 1234567
-  publisher: 1234567
+  app_id:
+  publisher:
 
 sass:
     style: compressed
@@ -22,7 +22,7 @@ markdown: kramdown
 kramdown:
   parse_block_html: true
 
-gems:
+plugins:
   - jekyll-redirect-from
   - jekyll-paginate
   - jekyll-sitemap
