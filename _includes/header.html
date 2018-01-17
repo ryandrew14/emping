@@ -26,7 +26,13 @@
             <amp-img class="avatar" src="{{ site.baseurl | append:'/assets/avatar.png'}}" width="90" height="90" layout="responsive" alt="{{ site.title }}" ></amp-img>
             <h1 class="name">{{ site.title }}</h1>
           </a>
-          <h2 class="description">{{site.description}}</h2>
+          <h2 class="description">{{site.description}}<br><ul style="margin-right: 30px">
+            <li style="display: inline"><a href="https://github.com/ryandrew14">Github</a></li>
+            <li style="display: inline"> | </li>
+            <li style="display: inline"><a href="https://keybase.io/ryandrew">Keybase</a></li>
+            <li style="display: inline"> | </li>
+            <li style="display: inline"><a href="mailto:mail@ryanrdrew.com">Email</a></li>
+          </ul></h2>
         </div>
     </div>{% endif %}
   {% unless include.avatar %}</div>{% endunless %}

@@ -1,8 +1,9 @@
 # Site settings
-title: Ryan Drew's Website
+title: Ryan Drew
 email: info@ryanrdrew.com
 description: > # this means to ignore newlines until "baseurl:"
-  CCIS Student at Northeastern Unversity. Find me on Github <a href="https://github.com/ryandrew14">here</a>
+  CCIS Student at Northeastern Unversity.
+description2: Find me on Github <a href="https://github.com/ryandrew14">here</a> and Keybase <a href="https://keybase.io/ryandrew">here</a>
   or email me <a href="mailto:mail@ryanrdrew.com">here</a>.
 baseurl: "" # the subpath of your site, e.g. /newpath-for-emping
 url: "http://ryanrdrew.com" # the base hostname & protocol for your site
