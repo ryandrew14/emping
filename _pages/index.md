@@ -4,6 +4,11 @@ title: Home
 avatar: true
 permalink: /
 ---
+
+<h1><center>Site Currently Under Renovation...</center></h1>
+<h3><center>Check out the links above while you wait!</center></h3>
+
+<!--
 <h1><center> Experience </center></h1>
 -------
 - __Robie Device Group__ - Junior Device Engineer (North Andover, MA)
@@ -18,3 +23,4 @@ permalink: /
 - __NHS Johnson Chapter__ - Math and English Tutor (North Andover, MA)
   - Tutored two private school students for four hours each week in Math and English
   - Helped with classwork as well as developed my own assignments to extend learning
+  -->
